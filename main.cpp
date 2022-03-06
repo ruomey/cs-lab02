@@ -9,5 +9,6 @@ int main(){
     cout << "a + b = "<< a + b << '\n';
     cout << "a - b = "<< a - b << '\n';
     cout << "a * b = "<< a * b << '\n';
+    cout << "a / b = "<< a / b.0 << '\n';
     return 0;
 }
